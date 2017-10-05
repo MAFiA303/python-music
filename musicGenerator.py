@@ -1,4 +1,6 @@
 from random import randint, shuffle
+import numpy as np
+
 # random selector for:
 def nar(): # major or Minor
     rn = randint(0,1)
